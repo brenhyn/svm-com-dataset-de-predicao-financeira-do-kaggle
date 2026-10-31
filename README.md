@@ -1,4 +1,4 @@
-# SVM para classificação de dificuldade financeira
+# SVM para classificação de saúde financeira
 
 ## O Dataset
 
