@@ -14,8 +14,6 @@ O modelo foi treinado com 70% dos dados e testado com 30%, com a divisão realiz
 
 ## Resultados
 
-F1-score: 0.41025641025641024
-
               precision    recall  f1-score   support
 
            0       0.99      0.97      0.98      1124
